@@ -1,0 +1,11 @@
+commands for git:
+
+- git init: initialize the folder for git
+- git add <name_file>: add the file to your repository file list (if not already in)
+- git add . : add all the files in the repository list
+- git commit -m "descirbe_commit": commit all the changes you made
+- git push <origin> <branch>: update the files you committed in the branch of the repository in <origin>
+- git rm <file_name>: remove the file from the repository. (to be committed after!)
+- git remote add <name> <address>: now <name> (eg. origin) holds the remote address of the repository (it's online at the
+	address specified in <address>)
+- 
