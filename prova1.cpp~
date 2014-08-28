@@ -4,7 +4,6 @@
 int main(){
 
 prinf("hello world\n");
-prinf("who are you?\n");
 
 return 0;
 }
