@@ -8,4 +8,4 @@ commands for git:
 - git rm <file_name>: remove the file from the repository. (to be committed after!)
 - git remote add <name> <address>: now <name> (eg. origin) holds the remote address of the repository (it's online at the
 	address specified in <address>)
-- 
+- git pull <origin> <branch>: downloads and updates your local files with the online ones (merging them in case of updates by other users). The files are taken from the address <origin>, branch <branch>
